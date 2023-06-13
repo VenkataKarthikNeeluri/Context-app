@@ -10,6 +10,8 @@ import "bootstrap/dist/js/bootstrap.bundle"
 import "bootstrap-icons/font/bootstrap-icons.css"
 
 import "react-toastify/dist/ReactToastify.css"
+
+// context provider component
 import DataProvider from './Context';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
